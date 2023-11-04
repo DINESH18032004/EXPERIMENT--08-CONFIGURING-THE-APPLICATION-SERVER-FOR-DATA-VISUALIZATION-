@@ -31,6 +31,8 @@ As the application server market matures, high performance becomes a stronger cr
 
 ![iot 07 3](https://github.com/DINESH18032004/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119477784/0b585bc9-2602-4346-a05f-6cadf1f9e5c7)
 
-## Results: 
+![iot exp no 07 1](https://github.com/DINESH18032004/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119477784/31fbe9fb-77b4-4b2d-8b88-05a88a8d0968)
+
+## Results:
 
   The Application  server and network server data is add on the data dashboard using visualiztion editor 
